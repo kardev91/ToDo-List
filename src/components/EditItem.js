@@ -21,5 +21,6 @@ class EditItem extends React.Component {
         )
     }
 }
+
 export default EditItem
 
