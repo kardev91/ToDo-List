@@ -15,7 +15,6 @@ class App extends React.Component {
     editItemValue: '',
     editItemId: ''
   }
-  
 
   onInputChange = (event) => {
     this.setState({ inputValue: event.target.value });
